@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+// eslint-disable-next-line no-unused-vars
 import PropTypes from "prop-types";
 
 const UserForm = ({ handleAdddata, editUser, btnText }) => {
